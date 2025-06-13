@@ -9,7 +9,7 @@ This project forecasts the 2025 US corn balance sheet using USDA data and machin
 - Domain: US Agriculture / Commodity Markets  
 - Goal: Forecast 2025 corn balance sheet attributes using machine learning  
 - Data Source: USDA WASDE reports and internal historical estimates  
-- Methods Used*
+- Methods Used
   - Linear Regression
   - Random Forest
   - XGBoost
